@@ -7,7 +7,7 @@
   
       a.	Constant for creating Event title 
 
-      b.	Constant for creating Brief Summary in Event
+      b.	Constant for creating Brief Summary for Event
 
       c.	Constant for setting start date and end date for the Event
 
