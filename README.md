@@ -80,7 +80,8 @@
   { id: 1, text: "Checkbox 1" },
   { id: 2, text: "Checkbox 2" },
   { id: 3, text: "Checkbox 3" }
-];
+]
+
 
       
 
